@@ -21,5 +21,12 @@ HABILIDADES:
 .Capacidade de se adptar a mudanças
 .Ingles intermediario
 
+LINGUAGENS APLICADAS
+.C++
+.Python
+.Java script
+.Node
+.Ruby
+.C#
+.Java
 
-Focado em Python
