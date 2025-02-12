@@ -20,3 +20,6 @@ HABILIDADES:
 .Trabalho em equipe
 .Capacidade de se adptar a mudanças
 .Ingles intermediario
+
+
+Focado em Python
