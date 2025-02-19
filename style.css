@@ -1,4 +1,25 @@
 /* configura foto do curriculo */
+body{
+
+     margin: 0;
+     padding: 0;
+     background-color: #f4f4f4
+     color: #333;
+
+     header{
+
+          color:white;
+          padding: 20px;
+          text-align: center;
+          
+     }
+
+}
+
+
+
+
+
 .foto-perfil{
 
      width: 180px;
