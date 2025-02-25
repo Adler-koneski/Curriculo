@@ -1,8 +1,33 @@
-/* configura foto do curriculo */
-.foto-perfil{
+body {
+     margin: 0;
+     padding: 0;
+     background-color: #f4f4f4;
+     color: #333;
+ }
+ 
+ /* Configura o cabeçalho do projeto */
+ header{
+     background: #222;
+     color: white;
+     padding: 20px;
+     text-align: center;
+ 
+ }
+ 
+ /* Confiura foto do curriculo*/
+ .foto-perfil{
+    width: 250px;
+    height: 250px;
+    
+ }
+ h1{
+     color: white;
+ }
 
-     width: 180px;
-     height: 180px;
-     border-radius: 50%;
-     border:3px solid white;
+
+ footer {
+    text-align: center;
+    padding: 10px;
+    background: #080808;
+    color: white;
 }
