@@ -1,33 +1,33 @@
 body {
-     margin: 0;
-     padding: 0;
-     background-color: #f4f4f4;
-     color: #333;
- }
- 
- /* Configura o cabeçalho do projeto */
- header{
-     background: #222;
-     color: white;
-     padding: 20px;
-     text-align: center;
- 
- }
- 
- /* Confiura foto do curriculo*/
- .foto-perfil{
-    width: 250px;
-    height: 250px;
-    
- }
- h1{
-     color: white;
- }
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
 
-
- footer {
-    text-align: center;
-    padding: 10px;
-    background: #080808;
+/* Configura o cabeçalho do projeto */
+header{
+    background: #222;
     color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+
+/* Confiura foto do curriculo*/
+.foto-perfil{
+   width: 250px;
+   height: 250px;
+   
+}
+h1{
+    color: white;
+}
+
+
+footer {
+   text-align: center;
+   padding: 10px;
+   background: #080808;
+   color: white;
 }
